@@ -2,8 +2,8 @@
 ## Practical 04 – Building Your First iOS App with SwiftUI
 
 ### Student Information
-- **Student ID:** IT22177100
-- **Student Name:** Mendis B.M.U.I
+- **Student ID:** IT22294548
+- **Student Name:** Sandaruwan W J
 
 **Module:** SE4041 – Mobile Application Design & Development  
 **Development Environment:** Xcode  
